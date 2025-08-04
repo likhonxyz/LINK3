@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import ContextTypes
 
 # Token সরাসরি এখানে বসানো হয়েছে
-TOKEN = "7945756761:AAH9rgtEx3eOfZWGto-JD1A5DjM1MHOlflA"
+TOKEN = "7945756761:AAFUvt8umANCwVjtjpLnmeSeekfPA0UYuMA"
 
 # Logging সেটআপ
 logging.basicConfig(level=logging.INFO)
